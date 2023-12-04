@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-
+# 禁止上传该文件夹下的所有文件
 VueAPP/wwwroot/upload/*
 
 # User-specific files
